@@ -5,12 +5,8 @@
 ***
 
 ![](profile-summary-card-output/github_dark/0-profile-details.svg#gh-dark-mode-only) ![](profile-summary-card-output/github/0-profile-details.svg#gh-light-mode-only)
-
-
 ![](profile-summary-card-output/github_dark/1-repos-per-language.svg#gh-dark-mode-only) ![](profile-summary-card-output/github/1-repos-per-language.svg#gh-light-mode-only) ![](profile-summary-card-output/github_dark/2-most-commit-language.svg#gh-dark-mode-only) ![](profile-summary-card-output/github/2-most-commit-language.svg#gh-light-mode-only)
-
-
-![](profile-summary-card-output/github_dark/3-stats.svg#gh-dark-mode-only) ![](profile-summary-card-output/github/3-stats.svg#gh-light-mode-only) | ![](profile-summary-card-output/github_dark/4-productive-time.svg#gh-dark-mode-only) ![](profile-summary-card-output/github/4-productive-time.svg#gh-light-mode-only)
+![](profile-summary-card-output/github_dark/3-stats.svg#gh-dark-mode-only) ![](profile-summary-card-output/github/3-stats.svg#gh-light-mode-only) ![](profile-summary-card-output/github_dark/4-productive-time.svg#gh-dark-mode-only) ![](profile-summary-card-output/github/4-productive-time.svg#gh-light-mode-only)
 
 ---
 
